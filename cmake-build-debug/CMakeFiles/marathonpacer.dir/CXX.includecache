@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/camillecrumpton/Documents/fun/marathoning/main.cpp
+iostream
+-
+cmath
+-
+math.h
+-
+cstdio
+-
+sstream
+-
+iomanip
+-
+string
+-
+
